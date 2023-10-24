@@ -15,7 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="P1427_내림차순으로자릿수정렬하기_답안.cpp">
+    <ClCompile Include="P11399_ATM인출시간계산하기.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="P11399_ATM인출시간계산하기_답안.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
